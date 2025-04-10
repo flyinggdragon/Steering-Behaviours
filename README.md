@@ -1,5 +1,5 @@
 # Steering Behaviours
-Entrega do exercício Steering Behaviours para a cadeira IA Par Jogos Digitais, 2025/1.
+Entrega do exercício Steering Behaviours para a cadeira IA Para Jogos, 2025/1.
 O projeto foi desenvolvido inteiramente na Unity Engine, versão 6 (6000.0.24f1).
 
 ## Steering Behaviours Aplicados:
@@ -17,8 +17,8 @@ O projeto foi desenvolvido inteiramente na Unity Engine, versão 6 (6000.0.24f1)
 + Wander
     + O agente se move aleatoriamente. Seu vetor de direção muda após uma estipulada quantidade de tempo.
  
-## Como utilizar?
-Baixe a build na seção "releases", descompacte o .zip e execute o .exe.
+## Como utilizar:
+O projeto é uma build executável. Baixe-a na seção [releases](https://github.com/flyinggdragon/Steering-Behaviours/releases), descompacte o .zip e execute o .exe.
 
 ## Controles: <sup>_(quando houver jogador disponível em cena)_</sup>
 - WASD -> Movimentação nos eixos X e Y.

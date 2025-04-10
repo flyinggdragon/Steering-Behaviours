@@ -56,7 +56,7 @@ public class Agent : MonoBehaviour, IMoveable {
     //...
     public List<Behaviour> behaviours;
     public Behaviour currentBehaviour;
-    public List<Player> target; // Poderia ser expandido para vários targets.
+    public Transform target; // Poderia ser expandido para vários targets.
     //...
 
     void Update() {
